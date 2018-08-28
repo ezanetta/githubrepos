@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">GithubRepos</string>
+    <string name="error_message">Error al consultar la lista de repositorios</string>
 </resources>
